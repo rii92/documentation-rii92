@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_documentation=self.webpackChunkmy_documentation||[]).push([[9212],{2735:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/documentation-rii92/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
