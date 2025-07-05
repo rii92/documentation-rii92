@@ -81,9 +81,9 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'chatbotKawanSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Chatbot Kawan',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
